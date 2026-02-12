@@ -11,7 +11,6 @@ Trabalho de Processamento Digital de Imagens sobre aprendizado few-shot aplicado
 │   └── 01_dataset_preparation.ipynb
 └── src/
     ├── few_shot_episodic_eval.ipynb    # Avaliação episódica
-    ├── few_shot_normal_eval.ipynb       # Avaliação normal
     └── helpers.ipynb                    # Funções auxiliares
 ```
 
@@ -26,7 +25,6 @@ O projeto utiliza o HAM10000 (Human Against Machine with 10000 training images),
 - `01_dataset_preparation.ipynb` - Preparação e organização dos dados
 
 ### Experimentos
-- `few_shot_normal_eval.ipynb` - Avaliação few-shot com dataset fixo
 - `few_shot_episodic_eval.ipynb` - Avaliação few-shot com episódios aleatórios
 - `helpers.ipynb` - Funções para salvar e visualizar resultados
 
